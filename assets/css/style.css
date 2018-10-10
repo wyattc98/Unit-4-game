@@ -1,0 +1,68 @@
+body {
+    color: floralwhite;
+    font-family: 'Permanent Marker', cursive;
+}
+
+header h1 {
+    text-align: center;
+    font-size: 80px;
+}
+
+.container-fluid {
+    align-content: center;
+    text-align: center;
+    position: relative;
+}
+
+.row {
+    height: 600px;
+}
+
+.col {
+    background-color: darkcyan;
+    margin: 5px;
+    height: 45%;
+    font-size: 24px;
+}
+
+#wins {
+    text-align: left;
+    padding: 10px;
+    font-size: 36px;
+}
+
+#losses {
+    text-align: left;
+    padding: 10px; 
+    font-size: 36px;
+
+}
+
+.col p {
+    padding: 20px;
+}
+
+.col img {
+    margin-top: 12%;
+    padding: 10px;
+
+}
+
+.col li {
+    padding: 20px;
+    text-align: left;
+}
+
+#generated-number {
+    font-size: 60px;
+}
+
+#added-value {
+    font-size: 60px;
+}
+
+.w-100 {
+  margin: 2px;
+  font-size: 24px;
+  height: 25%;
+}
